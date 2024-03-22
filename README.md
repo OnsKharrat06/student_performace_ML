@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HSKD6SRNSH3NVWJTYN1HW1S5
-  version: v3
----
-
 # Student Performance Prediction with Decision Trees
 
 This project predicts student performance using decision tree classification.
